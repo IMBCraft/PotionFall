@@ -16,8 +16,6 @@ public class PotionFall extends JavaPlugin {
     @Override
     public void onEnable() {
         saveDefaultConfig();
-        
-        Bukkit.broadcastMessage("[Herbs] Plugin loaded and enabled successfully!");
 
         final double speed = getConfig().getDouble("speed");
 
