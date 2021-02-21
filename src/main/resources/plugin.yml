@@ -1,0 +1,5 @@
+author: CyberFlame
+description: A Spigot plugin that fixes splash potion lag.
+main: net.cyberflame.potionfall.PotionFall
+name: PotionFall
+version: 1.0
